@@ -1,0 +1,27 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span,
+button {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.content {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
